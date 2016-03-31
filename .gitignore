@@ -1,0 +1,8 @@
+# Eclipse config files #
+########################
+
+.classpath
+.settings
+build
+target
+.project
